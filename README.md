@@ -71,8 +71,7 @@ Key points:
 <img width="1600" height="1423" alt="image" src="https://github.com/user-attachments/assets/1f936a22-f49b-462d-9a5a-120b6696b72c" />
 
 ## MODEL GRAPH
-<img width="994" height="1280" alt="image" src="https://github.com/user-attachments/assets/3a93013b-2d1e-4c93-8d62-25453951986b" />
-<img width="1007" height="1280" alt="image" src="https://github.com/user-attachments/assets/7d8d79b6-e071-46bb-9587-a8117fb21074" />
+<img width="1251" height="1599" alt="image" src="https://github.com/user-attachments/assets/1c196556-1b25-4398-b6e6-8bebcd01e877" />
 
 
 ## RESULT
